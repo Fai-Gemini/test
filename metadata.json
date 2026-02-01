@@ -1,0 +1,5 @@
+{
+  "name": "Dice Math Challenge",
+  "description": "A math puzzle game where you use 5 dice numbers to reach a target number, featuring a built-in solver.",
+  "requestFramePermissions": []
+}
